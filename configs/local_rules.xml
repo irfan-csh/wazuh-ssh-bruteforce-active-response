@@ -1,0 +1,8 @@
+<rule id="100500" level="12" frequency="10" timeframe="120">
+  <if_matched_sid>2502</if_matched_sid>
+  <description>Potential SSH Brute Force Attack Detected</description>
+  <group>authentication_failed,ssh_bruteforce,attack,</group>
+  <mitre>
+    <id>T1110</id>
+  </mitre>
+</rule>
