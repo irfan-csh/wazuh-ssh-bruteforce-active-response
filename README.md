@@ -153,26 +153,6 @@ The following workflow was performed during the investigation:
 
 ---
 
-## Screenshots
-
-### Agent Registration
-![Agent Registration](screenshots/01_agent_registered.png)
-
-### SSH Authentication Failures
-![Authentication Failures](screenshots/02_ssh_authentication_failures.png)
-
-### Brute Force Detection Alert
-![Brute Force Alert](screenshots/03_bruteforce_detection.png)
-
-### Custom Rule Configuration
-![Custom Rule](screenshots/04_custom_rule.png)
-
-### Active Response Configuration
-![Active Response](screenshots/05_active_response.png)
-
-### Automated IP Blocking
-![Firewall Block](screenshots/06_ip_blocked.png)
-
 ---
 
 ## Learning Outcomes
